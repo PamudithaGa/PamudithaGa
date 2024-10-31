@@ -50,7 +50,7 @@ A desktop application that automates library operations and inventory management
 ---
 
 ## 📈 Goals
-I aim to leverage my software development and design skills to contribute to real-world projects and am actively looking to grow as a web developer.
+I aim to leverage my software development and design skills to contribute to real-world projects and am actively looking to grow as a UI/UX Designer.
 
 ---
 
