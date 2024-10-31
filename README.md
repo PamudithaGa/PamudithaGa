@@ -1,7 +1,3 @@
-Here's a recommended README file structure for your GitHub profile, tailored from your CV content:
-
----
-
 # Pamuditha Gangana - Software Engineering Undergraduate
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Pamuditha%20Gangana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pamudithagss)](https://www.linkedin.com/in/pamudithagss)
@@ -52,15 +48,8 @@ A desktop application that automates library operations and inventory management
 ## 📈 Goals
 I aim to leverage my software development and design skills to contribute to real-world projects and am actively looking to grow as a UI/UX Designer.
 
----
-
-Feel free to explore my GitHub repositories, where I showcase some of my recent projects and contributions. 
-
 --- 
 
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/pamudithagss](https://www.linkedin.com/in/pamudithagss)
 - **GitHub**: [github.com/PamudithaGa](https://github.com/PamudithaGa)
-
----
-
