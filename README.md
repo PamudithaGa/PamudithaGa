@@ -1,12 +1,16 @@
 
 
-- 👋 Hi, I’m @Pamuditha Gangana
-- 👀 I’m interested in UI/UX Designs
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Pamuditha Gangana.
+- 👀 I’m interested in creating and behavior with UI/UX Designs.
+- 🌱 I’m currently learning.
+        Web Development: Expanding my knowledge in front-end and back-end technologies.
+        Mobile App Development: Building mobile applications.
+        Data Structures: Understanding fundamental data structures and algorithms.
+  
+- 💞️ I’m looking to collaborate on new digital tools.
+- 😄 Pronouns: He/Him
+<!--- 📫 How to reach me ...-->
+<!-- ⚡ Fun fact: ...-->
 
 <!---
 PamudithaGa/PamudithaGa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
