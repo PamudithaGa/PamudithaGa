@@ -18,6 +18,18 @@ I’m a motivated Software Engineering undergraduate at APIIT (affiliated with S
 - **Design**: UI/UX Design, Digital Collaboration Tools
 - **Soft Skills**: Effective Communication, Creativity, Problem-Solving, Punctuality
 
+[![HTML Badge](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/docs/)](https://www.postgresql.org/docs/)
+[![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/)
+[![C# Badge](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white&link=https://dotnet.microsoft.com/)](https://dotnet.microsoft.com/)
+[![PHP Badge](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
+[![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+
 ---
 
 ## 🌐 Projects
