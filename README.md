@@ -30,6 +30,8 @@ I’m a motivated Software Engineering undergraduate at APIIT (affiliated with S
 
 ---
 
+---
+
 ## 🌐 Projects and GitHub Stats
 
 ### 1. E-commerce Web Application for Event Planning
@@ -47,6 +49,22 @@ A desktop application that automates library operations and inventory management
 - **Tech Stack**: C#, Windows Forms, SQL Server
 - **Features**: Structured GUI, secure database management for records
 
+### 4. AgriX - Quality Assurance (QA) Team Member
+Contributed to **AgriX** as a QA team member, ensuring high software quality in a cross-functional, Agile (Scrum) environment.
+- **Methodology**: Agile (Scrum)
+- **Responsibilities**:
+  - Collaborated with a cross-functional team to ensure software quality through Agile sprints, with continuous testing and improvement.
+  - Designed and executed test cases for each sprint to validate functional and non-functional requirements.
+  - Conducted regular bug reporting, tracking, and regression testing to maintain high standards of quality.
+  - Participated in daily stand-ups, sprint planning, and retrospectives to identify and resolve quality-related issues efficiently.
+  - Coordinated with developers to troubleshoot and verify bug fixes, ensuring a smooth release process.
+- **Key Skills Developed**:
+  - Test case development and execution
+  - Bug tracking and management
+  - Collaboration within Agile (Scrum) framework
+  - Regression testing and quality assurance best practices
+- **Tools Used**: [List any testing or collaboration tools used, e.g., JIRA, TestRail, etc.]
+
 ---
 
 ### 📊 GitHub Stats
@@ -58,12 +76,9 @@ A desktop application that automates library operations and inventory management
 
 ---
 
-
----
-
 ## 🎓 Education
 - **BEng(Hons) in Software Engineering** - Staffordshire University, APIIT Lanka (2023–2027)
-- **Certifications**: Java Programming - Level 1 (LinkedIn)
+- **Certifications**: LinkedIn
 
 ---
 
