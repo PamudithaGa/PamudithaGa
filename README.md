@@ -28,11 +28,9 @@ I’m a motivated Software Engineering undergraduate at APIIT (affiliated with S
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
-
 ---
 
-## 🌐 Projects
+## 🌐 Projects and GitHub Stats
 
 ### 1. E-commerce Web Application for Event Planning
 An online platform for booking events, managing vendors, and processing payments.
@@ -48,6 +46,18 @@ A mobile app developed with Flutter for streamlined event booking and planning.
 A desktop application that automates library operations and inventory management.
 - **Tech Stack**: C#, Windows Forms, SQL Server
 - **Features**: Structured GUI, secure database management for records
+
+---
+
+### 📊 GitHub Stats
+
+[![Pamuditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=radical)](https://github.com/PamudithaGa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=radical)](https://github.com/PamudithaGa)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=radical)](https://github.com/PamudithaGa)
+[![Pamuditha's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github)](https://github.com/PamudithaGa)
+
+---
+
 
 ---
 
