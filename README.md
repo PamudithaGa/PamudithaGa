@@ -13,8 +13,8 @@ I’m a motivated Software Engineering undergraduate at APIIT (affiliated with S
 ---
 
 ## 🔧 Skills
-- **Languages & Frameworks**: Python, Java, C#, PHP, JavaScript, HTML, CSS, Flutter
-- **Development Tools**: Tailwind CSS, Windows Forms, SQL Server
+- **Languages & Frameworks**: HTML, CSS, Flutter, JavaScript, Python, Java, C#, PHP
+- **Development Tools**: Tailwind CSS, Windows Forms, SQL Server, MongoDB
 - **Design**: UI/UX Design, Digital Collaboration Tools
 - **Soft Skills**: Effective Communication, Creativity, Problem-Solving, Punctuality
 
