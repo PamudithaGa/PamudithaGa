@@ -92,96 +92,113 @@ I aim to leverage my software development and design skills to contribute to rea
 - **GitHub**: [github.com/PamudithaGa](https://github.com/PamudithaGa)
 
 
-# 👋 Hi there, I'm Pamuditha Gangana
 
-🎓 Software Engineering Undergraduate | 💻 Web & Mobile Developer  
-📍 Kuliyapitiya, Sri Lanka | 📧 pamudithagangana45@gmail.com | 📱 +94 72 644 2538  
 
-[![LinkedIn](https://img.shields.io/badge/-Pamuditha%20Gangana-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
-[![GitHub](https://img.shields.io/badge/-PamudithaGa-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PamudithaGa)
 
----
 
-## 🚀 About Me
 
-I'm a passionate and motivated Software Engineering undergraduate at APIIT (Staffordshire University), with a strong interest in **web** and **mobile app development**. I enjoy building elegant UIs and solving real-world problems using modern technologies. I'm always eager to learn and grow in both development and design.
+# 👨‍💻 Pamuditha Gangana
 
----
+**Software Engineering Undergraduate | Web & Mobile Developer | Passionate Problem Solver**
 
-## 🛠 Tech Stack
-
-### 💻 Languages & Frameworks  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### 🧰 Tools & Databases  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PamudithaGa)
+[![Gmail Badge](https://img.shields.io/badge/-pamudithagangana45@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pamudithagangana45@gmail.com)
 
 ---
 
-## 📱 Projects
+## 👋 About Me
 
-### 🎯 Event Planning E-commerce Web App  
-A responsive event planning platform for bookings, vendor management, and payments.  
-**Tech:** HTML, Tailwind CSS, JS, PHP
+Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT Sri Lanka** (affiliated with Staffordshire University). I'm deeply passionate about building modern **web** and **mobile** applications, designing engaging **UI/UX**, and solving problems with **OOP** principles in languages like **Python, Java, and C#**.
 
-### 📦 Event Booking Mobile App  
-Cross-platform mobile app for streamlined event management.  
-**Tech:** Flutter  
-
-### 📚 Library Management System  
-Desktop app for library inventory and record management.  
-**Tech:** C#, WinForms, SQL Server  
-
-### 🌿 AgriX (QA Team Member)  
-Contributed as a QA member in an Agile/Scrum team.  
-**Role:** Test case creation, bug tracking, regression testing  
-**Tools:** (Add JIRA/TestRail/etc. if used)
+- 🌍 Location: **Kuliyapitiya, Sri Lanka**
+- 🎯 Focus Areas: Web & Mobile App Development | UI/UX Design | Agile Methodologies
+- ⚡ Fun Fact: I’m a quick learner who thrives in creative, collaborative environments.
 
 ---
 
-## 📊 GitHub Insights
+## 🛠️ Tech Stack
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=tokyonight)](https://github.com/PamudithaGa)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=tokyonight)](https://github.com/PamudithaGa)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=onedark)](https://github.com/PamudithaGa)  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github-compact)](https://github.com/PamudithaGa)
+**Languages**  
+![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
+
+**Frameworks & Tools**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/-WindowsForms-0078D6?style=flat&logo=windows&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 🎓 Education & Certifications
+## 💼 Projects
 
-- **BEng(Hons) in Software Engineering**  
-  Staffordshire University @ APIIT Lanka (2023–2027)
+### 🎉 Event Planning E-commerce Web App
+A responsive platform for booking events and managing vendors.
+> **Stack**: HTML, Tailwind CSS, JS, PHP  
+> **Highlights**: Vendor management, secure booking, user-friendly UI
 
-- **Certifications**  
-  (Add relevant certifications here: e.g., Flutter, Python, LinkedIn Learning, etc.)
+### 📱 E-commerce Mobile App
+Cross-platform Flutter app for event bookings.
+> **Stack**: Flutter  
+> **Highlights**: Modern UI, seamless mobile experience (iOS + Android)
+
+### 📚 Library Management System
+Desktop application to manage library operations.
+> **Stack**: C#, WinForms, SQL Server  
+> **Highlights**: Intuitive UI, robust DB integration
+
+### ✅ AgriX – QA Team Member (Agile Project)
+Ensured software quality within an Agile (Scrum) team.
+> **Role**: QA Engineer  
+> **Responsibilities**: Test cases, bug tracking, regression testing  
+> **Tools**: JIRA, GitHub Projects (or mention what was used)
 
 ---
 
-## 🎯 Goals
+## 📈 GitHub Stats
 
-I'm currently focused on improving my skills in:
-- Frontend development with modern UI/UX design
-- Mobile development with Flutter
-- Real-world application building and open-source collaboration
+<div align="center">
+  
+![Pamuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=radical&column=3)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github)
+  
+</div>
+
+---
+
+## 🎓 Education
+
+**BEng (Hons) in Software Engineering**  
+*Staffordshire University – APIIT Lanka*  
+📅 2023 – 2027
+
+---
+
+## 🚀 Goals
+
+- 📌 Contribute to real-world, open-source projects
+- 🎨 Grow my UI/UX design and Figma prototyping skills
+- 📱 Build more mobile apps using Flutter
+- 🤝 Collaborate with developers across the globe
 
 ---
 
 ## 📬 Let's Connect!
 
-- LinkedIn: [pamudithagss](https://www.linkedin.com/in/pamudithagss)  
-- GitHub: [PamudithaGa](https://github.com/PamudithaGa)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pamudithagss)
+- 💻 [GitHub](https://github.com/PamudithaGa)
+- 📧 [Email Me](mailto:pamudithagangana45@gmail.com)
 
 ---
 
-*Thanks for visiting my profile! Let's build something great together.*
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
