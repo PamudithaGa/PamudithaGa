@@ -26,7 +26,6 @@ Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT S
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Laravel](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Tools**  
