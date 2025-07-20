@@ -37,31 +37,6 @@ Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT S
 
 ---
 
-## 💼 Projects
-
-### 🎉 Event Planning E-commerce Web App
-A responsive platform for booking events and managing vendors.
-> **Stack**: HTML, Tailwind CSS, JS, PHP  
-> **Highlights**: Vendor management, secure booking, user-friendly UI
-
-### 📱 E-commerce Mobile App
-Cross-platform Flutter app for event bookings.
-> **Stack**: Flutter  
-> **Highlights**: Modern UI, seamless mobile experience (iOS + Android)
-
-### 📚 Library Management System
-Desktop application to manage library operations.
-> **Stack**: C#, WinForms, SQL Server  
-> **Highlights**: Intuitive UI, robust DB integration
-
-### ✅ AgriX – QA Team Member (Agile Project)
-Ensured software quality within an Agile (Scrum) team.
-> **Role**: QA Engineer  
-> **Responsibilities**: Test cases, bug tracking, regression testing  
-> **Tools**: JIRA, GitHub Projects (or mention what was used)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
