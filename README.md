@@ -1,24 +1,26 @@
 # 👨‍💻 Pamuditha Gangana
 
-**Software Engineering Undergraduate | Web & Mobile Developer | Passionate Problem Solver**
+**Software Engineering Undergraduate | Full-Stack Dev | UI/UX Nerd | OOP Addict**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PamudithaGa)
-[![Gmail Badge](https://img.shields.io/badge/-pamudithagangana45@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pamudithagangana45@gmail.com)
-
----
-
-## 👋 About Me
-
-Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT Sri Lanka** (affiliated with Staffordshire University). I'm deeply passionate about building modern **web** and **mobile** applications, designing engaging **UI/UX**, and solving problems with **OOP** principles in languages like **Python, Java, and C#**.
-
-- 🌍 Location: **Kuliyapitiya, Sri Lanka**
-- 🎯 Focus Areas: Web & Mobile App Development | UI/UX Design | Agile Methodologies
-- ⚡ Fun Fact: I’m a quick learner who thrives in creative, collaborative environments.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PamudithaGa)
+[![Gmail](https://img.shields.io/badge/-pamudithagangana45@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pamudithagangana45@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Hey there!
+
+I'm **Pamuditha**, a Software Engineering undergrad at **APIIT Sri Lanka** (Staffordshire Uni 🇬🇧). I build sleek **web & mobile apps**, dive deep into **OOP**, and love solving real-world problems with code.  
+
+I vibe best in creative dev teams, turning caffeine into clean UIs, and logic into impact.
+
+- 🏠 Based in: **Kuliyapitiya, Sri Lanka**
+- 💡 Interests: Full-Stack Dev | UI/UX Design | Agile & Real-Time Systems
+- 🔥 Bonus: I pick up new tech like it’s on fast-forward 🚀
+
+---
+
+## 🧰 Tech Arsenal
 
 **Languages**  
 ![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
@@ -37,14 +39,14 @@ Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT S
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Highlights
 
 <div align="center">
   
-![Pamuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=radical&column=3)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github)
+![Pamuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=radical&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=radical&margin-w=15&no-frame=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github-compact)
   
 </div>
 
@@ -53,27 +55,29 @@ Hi there! I’m **Pamuditha**, a Software Engineering undergraduate at **APIIT S
 ## 🎓 Education
 
 **BEng (Hons) in Software Engineering**  
-*Staffordshire University – APIIT Lanka*  
-📅 2023 – 2027
+📍 *Staffordshire University @ APIIT Lanka*  
+📅 *2023 – 2027*
 
 ---
 
-## 🚀 Goals
+## 🚀 My 2025 Goals
 
-- 📌 Contribute to real-world, open-source projects
-- 🎨 Grow my UI/UX design and Figma prototyping skills
-- 📱 Build more mobile apps using Flutter
-- 🤝 Collaborate with developers across the globe
-
----
-
-## 📬 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pamudithagss)
-- 💻 [GitHub](https://github.com/PamudithaGa)
-- 📧 [Email Me](mailto:pamudithagangana45@gmail.com)
+- ✅ Ship more **mobile apps** with Flutter  
+- ✅ Get hands-on with **open-source** collabs  
+- 🔄 Master modern **UI/UX prototyping** (looking at you, Figma 👀)  
+- 🔄 Deploy more side projects & expand my **portfolio**  
+- 🔄 Keep learning, keep shipping, keep leveling up  
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 💬 Let's Build Something Cool!
 
+- 🧑‍💻 [GitHub](https://github.com/PamudithaGa)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pamudithagss)  
+- 📬 [Email Me](mailto:pamudithagangana45@gmail.com)  
+
+---
+
+> _“Code is like humor. If you have to explain it, it’s bad.” – Cory House_
+
+---
