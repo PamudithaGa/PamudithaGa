@@ -1,6 +1,6 @@
 # 👨‍💻 Pamuditha Gangana
 
-**Software Engineering Undergraduate | Full-Stack Dev | UI/UX Nerd | OOP Addict**
+**Software Engineering Undergraduate | Full-Stack Dev**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PamudithaGa)
