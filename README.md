@@ -52,13 +52,10 @@ I thrive in **full-stack development**, **problem-solving**, and **collaborative
 
 ## 🎓 Education
 
-**BEng (Hons) Software Engineering** — Staffordshire University (2023–2026)  
+**BEng (Hons) Computer Science** — Staffordshire University (2023–2026)  
 **A/L (2023) | O/L (2021)**
 
 ---
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PamudithaGaEhelepola&show_icons=true&theme=react&hide_border=true" alt="Pamuditha's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=PamudithaGaEhelepola&theme=react&hide_border=true" alt="Pamuditha's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGaEhelepola&layout=compact&theme=react&hide_border=true" alt="Top Languages" /> </p>
 
 ## 🌐 Connect With Me
 
