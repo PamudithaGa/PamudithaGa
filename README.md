@@ -1,83 +1,70 @@
-# 👨‍💻 Pamuditha Gangana
+# 👨‍💻 Pamuditha Senanayaka
 
-**Software Engineering Undergraduate | Full-Stack Dev**
+### 🚀 Full-Stack Developer | Software Engineering Undergraduate | Agile Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudithagss)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/PamudithaGa)
-[![Gmail](https://img.shields.io/badge/-pamudithagangana45@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pamudithagangana45@gmail.com)
-
----
-
-## 👋 Hey there!
-
-I'm **Pamuditha**, a Software Engineering undergrad at **APIIT Sri Lanka** (Staffordshire Uni 🇬🇧). I build sleek **web & mobile apps**, dive deep into **OOP**, and love solving real-world problems with code.  
-
-I vibe best in creative dev teams, turning caffeine into clean UIs, and logic into impact.
-
-- 🏠 Based in: **Kuliyapitiya, Sri Lanka**
-- 💡 Interests: Full-Stack Dev | UI/UX Design | Agile & Real-Time Systems
-- 🔥 Bonus: I pick up new tech like it’s on fast-forward 🚀
+Hey there 👋  
+I'm **Pamuditha**, a motivated **Software Engineering undergraduate at Staffordshire University (UK)** with a strong passion for building scalable, user-focused digital solutions.  
+I thrive in **full-stack development**, **problem-solving**, and **collaborative Agile environments** — always exploring ways to make tech smarter, faster, and cleaner.
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧠 Tech Stack
 
-**Languages**  
-![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
-
-**Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/-WindowsForms-0078D6?style=flat&logo=windows&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+**Frontend:** React.js, Tailwind CSS, Flutter  
+**Backend:** Node.js, Express.js, Laravel  
+**Databases:** MySQL, MongoDB  
+**Other Tools:** Git, GitHub, Stripe API, RESTful APIs, CloudPanel  
+**Core Skills:** Problem-Solving, UI/UX Design, Effective Communication, Agile Practices  
 
 ---
 
-## 📈 GitHub Highlights
+## 💼 Experience
 
-<div align="center">
-  
-![Pamuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamudithaGa&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGa&layout=compact&theme=radical&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PamudithaGa&theme=radical&margin-w=15&no-frame=true)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PamudithaGa&theme=github-compact)
-  
-</div>
+### 🧩 Intern Software Engineer — *All In One Holding*  
+**(Feb 2025 – Aug 2025)**  
+- Worked on full-stack projects using React.js, Laravel, Node.js, MySQL, and MongoDB.  
+- Contributed to API development, feature testing, and UI/UX improvements.  
+- Collaborated in Agile sprints, improving teamwork and software delivery efficiency.  
+
+---
+
+## 🧪 Projects
+
+### 🌍 Regency Travel House — *Travel & Tour Booking Platform*  
+> React.js | Laravel | CloudPanel | Stripe | SSL  
+- Built a full-stack booking system with admin and customer dashboards.  
+- Added secure payments, automated booking notifications, and loyalty points.  
+- Integrated CO₂ wastage tracking to support sustainable tourism.  
+
+### 🌾 Agri X — *Full-Stack Web Application*  
+> React.js | Node.js | MySQL | Agile  
+- Led multiple roles: Scrum Master, Business Analyst, QA, and Developer.  
+- Designed APIs for messaging, authentication, and product management.  
+- Managed sprints, UAT, and team workflows using Jira.  
+
+### 💻 Full-Stack Web Application (Personal GitHub Project)  
+> Node.js | Express | React.js | Tailwind CSS | Stripe  
+- Developed and deployed a scalable full-stack app with RESTful APIs.  
+- Integrated Stripe payments and automated email notifications.  
+- Optimized backend performance and frontend responsiveness.  
 
 ---
 
 ## 🎓 Education
 
-**BEng (Hons) in Software Engineering**  
-📍 *Staffordshire University @ APIIT Lanka*  
-📅 *2023 – 2027*
+**BEng (Hons) Software Engineering** — Staffordshire University (2023–2026)  
+**A/L (2023) | O/L (2021)**
 
 ---
 
-## 🚀 My 2025 Goals
+## 🌐 Connect With Me
 
-- ✅ Ship more **mobile apps** with Flutter  
-- ✅ Get hands-on with **open-source** collabs  
-- 🔄 Master modern **UI/UX prototyping** (looking at you, Figma 👀)  
-- 🔄 Deploy more side projects & expand my **portfolio**  
-- 🔄 Keep learning, keep shipping, keep leveling up  
-
----
-
-## 💬 Let's Build Something Cool!
-
-- 🧑‍💻 [GitHub](https://github.com/PamudithaGa)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pamudithagss)  
-- 📬 [Email Me](mailto:pamudithagangana45@gmail.com)  
+📍 Stoke-on-Trent, UK  
+📧 [pamudithagangana45@gmail.com](mailto:pamudithagangana45@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/pamudithagss)  
+🐙 [GitHub](https://github.com/PamudithaGaEhelepola)  
 
 ---
 
-> _“Code is like humor. If you have to explain it, it’s bad.” – Cory House_
+> “Code with purpose. Build with passion. Grow with curiosity.” 🌱
 
----
