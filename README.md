@@ -18,6 +18,28 @@ I thrive in **full-stack development**, **problem-solving**, and **collaborative
 
 ---
 
+## 🧰 Git & DevOps Habits
+
+I'm all about writing clean commits and keeping version control tight 💪  
+Here’s a peek into my workflow:
+
+bash
+# check what’s happening before pushing
+git status
+
+# stage only what matters
+git add .
+
+# clean & meaningful commit messages
+git commit -m "feat: added booking management API integration"
+
+# sync with remote like a pro
+git pull origin main
+git push origin main
+
+# keep branches organized
+git checkout -b feature/loyalty-system
+
 ## 💼 Experience
 
 ### 🧩 Intern Software Engineer — *All In One Holding*  
