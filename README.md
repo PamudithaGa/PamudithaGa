@@ -18,28 +18,6 @@ I thrive in **full-stack development**, **problem-solving**, and **collaborative
 
 ---
 
-## 🧰 Git & DevOps Habits
-
-I'm all about writing clean commits and keeping version control tight 💪  
-Here’s a peek into my workflow:
-
-bash
-# check what’s happening before pushing
-git status
-
-# stage only what matters
-git add .
-
-# clean & meaningful commit messages
-git commit -m "feat: added booking management API integration"
-
-# sync with remote like a pro
-git pull origin main
-git push origin main
-
-# keep branches organized
-git checkout -b feature/loyalty-system
-
 ## 💼 Experience
 
 ### 🧩 Intern Software Engineer — *All In One Holding*  
@@ -78,6 +56,9 @@ git checkout -b feature/loyalty-system
 **A/L (2023) | O/L (2021)**
 
 ---
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PamudithaGaEhelepola&show_icons=true&theme=react&hide_border=true" alt="Pamuditha's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=PamudithaGaEhelepola&theme=react&hide_border=true" alt="Pamuditha's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamudithaGaEhelepola&layout=compact&theme=react&hide_border=true" alt="Top Languages" /> </p>
 
 ## 🌐 Connect With Me
 
