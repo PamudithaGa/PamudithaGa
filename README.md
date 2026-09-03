@@ -44,8 +44,8 @@ I thrive in **full-stack development**, **problem-solving**, and **collaborative
 
 ## 🎓 Education
 
-**BEng (Hons) Computer Science** — Staffordshire University (2023–2026)  
-**A/L (2023) | O/L (2021)**
+**BSc (Hons) Computer Science (Software Development)** — Staffordshire University (2023–2026)  
+
 
 ---
 
