@@ -1,6 +1,6 @@
 # 👨‍💻 Pamuditha Senanayaka
 
-### 🚀 Full-Stack Developer | Software Engineering Undergraduate | Agile Enthusiast
+### 🚀 Full-Stack Developer | BSc (Hons) Computer Science (Software Development) | Agile Enthusiast
 
 Hey there 👋  
 I'm **Pamuditha**, a motivated **Software Engineering undergraduate at Staffordshire University (UK)** with a strong passion for building scalable, user-focused digital solutions.  
